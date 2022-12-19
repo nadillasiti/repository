@@ -1,8 +1,14 @@
 {
-    "januari": 150,
-    "februari": 270,
-    "maret": 230,
-    "april": 300,
-    "mei": 325,
-    "juni": 360
+    "jan": 50,
+    "feb": 53,
+    "mar": 54,
+    "apr": 53,
+    "mei": 52,
+    "jun": 51,
+    "jul": 50,
+    "ags": 49,
+    "sep": 48,
+    "okt": 48,
+    "nov": 47,
+    "des": 46
 }
